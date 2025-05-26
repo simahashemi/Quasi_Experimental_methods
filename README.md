@@ -1,4 +1,3 @@
-# Quasi_Experimental_methods
 # Quasi-Experimental Methods
 
 This repository contains Python-based implementations and illustrative examples of key **quasi-experimental methods** used in causal inference. These methods are especially useful when randomized controlled trials are not feasible, and researchers must rely on observational data to estimate causal effects.
