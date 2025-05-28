@@ -7,10 +7,10 @@ This repository contains Python-based implementations and illustrative examples 
 Quasi-experimental methods help evaluate the impact of interventions or treatments while accounting for potential confounders. The repository includes code and explanations for the following methods:
 
 - ✅ Difference-in-Differences (DiD)
+- ✅ Interrupted Time Series (ITS)
 - ✅ Regression Discontinuity Design (RDD)
 - ✅ Instrumental Variables (IV)
 - ✅ Propensity Score Matching (PSM)
-- ✅ Synthetic Control Method (SCM)
 
 Each method is implemented with simple, well-commented code to demonstrate how it works in practice, often using real or simulated data.
 
